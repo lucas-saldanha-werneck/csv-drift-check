@@ -1,0 +1,6 @@
+order_id,customer_id,amount,created_at,coupon,channel
+1001,C1,59.90,2026-11-02,,web
+1002,C2,120.00,2026-11-02,WELCOME,web
+1002,C2,120.00,2026-11-02,WELCOME,app
+1003,C3,fifteen,2026-11-03,,app
+1005,C4,42.00,2026-11-04,,web
